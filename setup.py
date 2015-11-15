@@ -52,7 +52,7 @@ setup (
    author_email = 'codedread@gmail.com',
    url = 'https://github.com/codedread/scour',
    platforms = ('Any'),
-   install_requires = ['six>=1.9.0'],
+   install_requires = [],
    packages = find_packages(),
    zip_safe = True,
    entry_points = {
